@@ -1,0 +1,11 @@
+ZöldségKészlet CLOUD 2.0
+
+1. A Supabase SQL Editorban futtasd a supabase-schema-cloud.sql fájlt.
+2. Az appban: Menü -> Felhőkapcsolat.
+3. URL: https://ovoolpaqxrnprkeehbvh.supabase.co
+4. A Publishable key mezőbe másold be a Supabase Publishable key értékét.
+5. Munkaterület azonosító: zoldsegkeszlet
+6. Menü -> Belépés / fiók -> Új fiók létrehozása.
+7. Belépés után Menü -> Szinkronizálás.
+
+A Publishable key nem titkos service_role kulcs, de csak Supabase RLS mellett használd. A secret/service_role kulcsot ne tedd az alkalmazásba.
