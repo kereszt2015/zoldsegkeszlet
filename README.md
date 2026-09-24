@@ -1,0 +1,2 @@
+# zoldsegkeszlet
+ZöldségKészlet alkalmazás
